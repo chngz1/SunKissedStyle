@@ -1,0 +1,29 @@
+.elementor-110 .elementor-element.elementor-element-6f45dde3 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-110 .elementor-element.elementor-element-6f45dde3{animation-timing-function:cubic-bezier(0.165,0.84,0.44,1);}.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-title a{color:#202020;font-family:"Domine", Sans-serif;font-size:31px;font-weight:bold;line-height:36px;}.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-title a:hover{color:#ffffff;}.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-info a, .elementor-110 .elementor-element.elementor-element-5c49f53c .entry-info{color:#AAAAAA;}.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-info, .elementor-110 .elementor-element.elementor-element-5c49f53c .entry-info a{font-family:"Raleway", Sans-serif;font-size:17px;font-weight:400;}.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-info{margin-bottom:14px;}.elementor-110 .elementor-element.elementor-element-5c49f53c .column-entry{padding:0px 0px 0px 0px;}.elementor-110 .elementor-element.elementor-element-5c49f53c .type-post .entry-main{padding:50px 55px 50px 55px;}.elementor-110 .elementor-element.elementor-element-5c49f53c{text-align:left;}/* Start custom CSS for aux_recent_posts, class: .elementor-element-5c49f53c */.elementor-110 .elementor-element.elementor-element-5c49f53c .readmore {
+    display: none;
+}
+
+.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-main {
+    box-shadow: 0 3px 35px rgba(0,0,0,0.16);
+    min-height: auto;
+}
+.elementor-110 .elementor-element.elementor-element-5c49f53c .entry-main .entry-title {
+    max-height: 36px;
+    transition-delay: 0;
+}
+.elementor-110 .elementor-element.elementor-element-5c49f53c .type-post {
+    margin-bottom: -30px
+}
+
+.elementor-110 .elementor-element.elementor-element-5c49f53c .type-post:hover .entry-main {
+    background-color: var(--e-global-color-6888fa49);
+    box-shadow: 5px 9px 35px 0px rgba(119, 74, 255, 0.41)
+}
+
+.elementor-110 .elementor-element.elementor-element-5c49f53c .type-post:hover .entry-title,
+.elementor-110 .elementor-element.elementor-element-5c49f53c .type-post:hover .entry-title a{
+    color: #FFF !important;
+}
+
+.elementor-110 .elementor-element.elementor-element-5c49f53c .type-post:hover .entry-date a {
+    color: #FFF !important;
+}/* End custom CSS */
